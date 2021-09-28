@@ -1,0 +1,34 @@
+#headerTitle{
+    /* text-align: center; */
+    font-family: 'open sans', sans-serif;
+    padding: 1rem 0;
+    margin: 0;
+    font-size: 2rem;
+    margin-left: 1rem;
+    margin: 10px auto;
+    width: 93vw;
+  }
+
+#logo{
+    /* width: 15vw; */
+}
+
+
+
+@media (min-width:1024px) {
+  #headerTitle {
+    width: 50vw;
+  }
+  .supervisorHeader{
+    width: 60vw !important;
+    }
+}
+
+.logoutImage{
+  float: right;
+  height: 4rem;
+}
+
+.imgHeight{
+  height: 4rem;
+}

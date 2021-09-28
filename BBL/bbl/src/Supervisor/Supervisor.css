@@ -1,0 +1,14 @@
+
+.userInput{
+    min-width: 14rem;
+  }
+
+@media (min-width:1024px) {
+    .mainContainer1 {
+      width: 65%;
+    }
+  }
+
+.clientNameSupr{
+  justify-content: flex-end;
+}

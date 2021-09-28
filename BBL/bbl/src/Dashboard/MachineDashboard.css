@@ -1,0 +1,19 @@
+
+  .machineContainer{
+    border: 1px solid #D0D3D4;
+    padding: 10px;
+    background-color:'#EBF5FB';
+    width: 10rem; 
+    height: 13rem; 
+    float: left; 
+     margin: 15px ; 
+    /* margin-top: 50  */
+  };
+
+  /* @media (min-width: 200px) {
+    .machineContainer {
+        width: 200px; 
+        height: 250px;
+    }
+  } */
+

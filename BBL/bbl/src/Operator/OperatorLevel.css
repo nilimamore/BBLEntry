@@ -1,0 +1,79 @@
+.displayFlex{
+    display: flex;
+}
+
+.pad10{
+    padding: 17px;
+}
+
+.pad2{
+    padding: 2px;
+    margin-top: 0rem;
+}
+
+@media (min-width:780px) {
+    .displayFlexHolder {
+      display: flex;
+    }
+  }
+
+  .margLeft25 {
+      margin-left: 25px;
+  }
+
+  .btnSubmitOperator{
+    padding-top: 20px;
+    }
+
+    .stopage1 input{
+        padding: 1rem;
+        border-radius: 10px;
+        min-width: 3rem;
+        background:darkseagreen;
+        border: 1px solid darkseagreen;
+        color: black;
+        font-size: 16px;
+        /* font-weight: bold; */
+        margin:10px;
+    }
+
+    .stopageActive1 input{
+        padding: 1rem;
+        border-radius: 10px;
+        min-width: 3rem;
+        background:red;
+        border: 1px solid red;
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        margin:10px;
+    }
+.flexWrap{
+    flex-wrap: wrap;
+}
+
+.justifyStart{
+    justify-content: flex-start;
+}
+
+.stopageDiv{
+        /* flex: 1; */
+        flex-wrap: wrap;
+        display: flex;
+        margin-left: 1rem;
+        /* justify-content: center */
+}
+
+.clientName{
+    height: 2rem;
+    /* margin-top: 1rem; */
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.bold{
+    font-weight: bold;
+}
+

@@ -1,0 +1,36 @@
+{
+  "data": {
+    "MachineDashboard": [{
+        "Machine_1": "20"
+      },
+      {
+        "Machine_2": "30"
+      },
+      {
+        "Machine_3": "40"
+      },
+      {
+        "Machine_4": "10"
+      },
+      {
+        "Machine_5": "20"
+      },
+      {
+        "Machine_6": "30"
+      },
+      {
+        "Machine_7": "40"
+      },
+      {
+        "Machine_8": "10"
+      },
+      {
+        "Machine_9": "20"
+      },
+      {
+        "Machine_10": "30"
+      }
+
+    ]
+  }
+}
